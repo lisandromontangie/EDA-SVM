@@ -1,8 +1,17 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
 
+#######################################################
+# Exploratory Data Analysis and Prediction model      #
+# for the Bike Sharing Data Set ([1] Fanaee-T, Hadi,  #
+# and Gama, Joao, "Event labeling combining ensemble  #
+# detectors and background knowledge", Progress in    #
+# Artificial Intelligence (2013): pp. 1-15, Springer  #
+# Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.   #
+#######################################################
+
+# In[2]:
 
 # Import relevant libraries for EDA
 import numpy as np
